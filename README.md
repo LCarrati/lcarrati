@@ -1,7 +1,7 @@
 <header>
     <h1 align="center">👋🏻 Hi there! It's nice to see u here! 🤓</h1>
     <div align="center">
-        <p><b>My social medias and contacts! 📲</b></p>
+        <p><b>👇👇 For job offers, code talk, new friendship or just trash talk! 👇👇</b></p>
        <a href="mailto:carrati3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
        <a href=https://www.linkedin.com/in/leonardo-carrati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
        <a href="#"><img src="https://img.shields.io/badge/Portfolio-ffca28?style=for-the-badge&logo=About.me&logoColor=black" /></a>
@@ -11,19 +11,19 @@
 <main>
     <table>
         <tr>
-            <h2>A bit about myself 🗣</h2>
+            <h2>About Leo Carrati (a.k.a. me) 😁</h2>
         </tr>
         <tr>
             <td width="60%">
                 <p>
-                     🧑🏻‍💻 I am a developer with several and varied skills that is always studying to improve my abilities and learn new ones.
+                     🧑🏻‍💻 I'm a developer deeply in love ❤ with javascript that is always studying to improve and learn new abilities. Addicted to coding 'in the zone🎯', the best state of mind to be! 🤯
                 </p>
                 <p>
-                     🌱 I am also looking forward to impact peoples' lives by sharing my knowledge and experiences. Follow me on <a href="https://www.linkedin.com/in/tayanne-silva-novais/">Linkedin</a> to get to know more about it.
+                     🌱 I'm also looking forward to impact peoples' lives by sharing my knowledge and experiences. Follow me on <a href="https://www.linkedin.com/in/leonardo-carrati">Linkedin</a> and check my <a href="https://console.blog.br">Blog</a> to get to know more about it.
                 </p>
             </td>
             <td align="center">
-                <img src="mood.jpg" alt="ilustracao" width="180em" >
+                <img src="mood.jpg" alt="ilustracao" width="300em">
             </td>
         </tr>
      </table>
