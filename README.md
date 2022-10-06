@@ -51,11 +51,11 @@
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcarrati&theme=monokai&count_private=true&show_icons=true)">
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcarrati&layout=compact&theme=monokai">
         </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=monokai" />
+        <a href="https://github.com/LCarrati/Calculadora">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LCarrati&repo=Calculadora&theme=monokai" />
         </a>
-        <a href="https://github.com/anuraghazra/convoychat">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=monokai" />
+        <a href="https://github.com/LCarrati/PedraPapelTesoura">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LCarrati&repo=PedraPapelTesoura&theme=monokai" />
         </a>
     </div>
 </footer>
