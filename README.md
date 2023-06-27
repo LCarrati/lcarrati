@@ -37,9 +37,9 @@ Me siga no <a href="https://www.linkedin.com/in/leonardo-carrati">Linkedin</a>!
      <div>
          <h3>Languages & Libs</h3>         
          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-         <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript&logoColor=2f72bc  />
-         <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933 />
-         <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1 />
+         <img src="https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript&logoColor=2f72bc"  />
+         <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933" />
+         <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
          <img src="https://img.shields.io/badge/Javascript-ffca28?style=for-the-badge&logo=javascript&logoColor=black" />
          <img src="https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3&logoColor=white" />
          <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=dc143c" />
@@ -48,7 +48,7 @@ Me siga no <a href="https://www.linkedin.com/in/leonardo-carrati">Linkedin</a>!
          <h3>Softwares & Tools</h3>
          <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
          <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-         <img src="https://img.shields.io/badge/Valentina_Studio-000?style=for-the-badge&logo=singlestore&logoColor=4169E1) />
+         <img src="https://img.shields.io/badge/Valentina_Studio-000?style=for-the-badge&logo=singlestore&logoColor=4169E1" />
      </div>
 </main>
 <hr />
