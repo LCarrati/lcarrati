@@ -33,7 +33,7 @@ Me siga no <a href="https://www.linkedin.com/in/leonardo-carrati">Linkedin</a>!
         </tr>
      </table>
      <hr />
-     <h2>What I use to ✍🏻 Code </h2>
+     <h2>O que eu uso paga ✍🏻 codar </h2>
      <div>
          <h3>Languages & Libs</h3>         
          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -53,7 +53,7 @@ Me siga no <a href="https://www.linkedin.com/in/leonardo-carrati">Linkedin</a>!
 </main>
 <hr />
 <footer>
-    <h2>My github usage</h2>
+    <h2>Destaques</h2>
     <div align="center">
         <a href="https://github.com/lcarrati">
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcarrati&theme=monokai&count_private=true&show_icons=true)">
